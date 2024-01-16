@@ -1,2 +1,6 @@
 
 test
+
+npm install
+npm install --global @ui5/cli
+ui5 serve -o index.html
